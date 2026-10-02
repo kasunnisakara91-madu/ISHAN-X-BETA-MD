@@ -21,7 +21,7 @@ module.exports = {
 
 
   // ===============================
-  // 📌 STATUS AUTOMATION SYSTEM
+  // 🦋 STATUS AUTOMATION SYSTEM
   // (DEFAULT: OFF)
   // ===============================
   AUTO_STATUS_SEEN: true,
